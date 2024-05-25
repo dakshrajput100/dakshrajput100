@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Daksh Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -15,6 +14,11 @@
 <a href="https://www.linkedin.com/in/daksh-kumar-1127681b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daksh Kumar LinkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/dakshrajput100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Daksh Kumar LeetCode" height="30" width="40" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/35e935c5-4eb2-4f41-a320-8fc2c38c6f1b" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Daksh Kumar Google Cloud" height="30" width="40" /></a>
+</p>
+
+<h3 align="left"><b>Hacktoberfest:</b></p> </h3>
+<p align="left">
+<a href="https://www.holopin.io/@dakshrajput100#badges" target="blank"><img align="center" src="https://holopin.me/dakshrajput100" alt="Hacktoberfest Badges" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
