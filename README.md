@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Software Developer | Python | SQL | Web Technologies I Future Tech Innovator I Financial Director @ Rotaract Club of Pune Wisdom**
+- 💬 Ask me about **Software Developer | Python | SQL | Web Technologies | Future Tech Innovator | Financial Director @ Rotaract Club of Pune Wisdom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +16,7 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/35e935c5-4eb2-4f41-a320-8fc2c38c6f1b" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Daksh Kumar Google Cloud" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><b>Hacktoberfest:</b></p> </h3>
+<h3 align="left"><b>Hacktoberfest:</b></h3>
 <p align="left">
 <a href="https://www.holopin.io/@dakshrajput100#badges" target="blank"><img align="center" src="https://holopin.me/dakshrajput100" alt="Hacktoberfest Badges" height="40" width="40" /></a>
 </p>
@@ -42,4 +42,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshrajput100&show_icons=true&locale=en" alt="dakshrajput100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshrajput100&"alt="dakshrajput100" /></p>
+<p align="left">
+<img src="https://leetcard.jacoblin.cool/dakshrajput100?theme=unicorn" alt="LeetCode Stats" />
+</p>
