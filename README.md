@@ -23,6 +23,11 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/35e935c5-4eb2-4f41-a320-8fc2c38c6f1b" target="blank">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Daksh Kumar Google Cloud" title="Daksh Kumar Google Cloud" height="30" width="40" />
   </a>
+ <a href="https://www.holopin.io/@dakshrajput100#badges" target="blank">
+    <img src="https://www.holopin.io/images/logo.png" alt="Daksh Kumar Holopin" title="Daksh Kumar Holopin" height="30" width="40" />
+  </a>
+
+  
 </div>
 
 <h3 align="left"><b>Hacktoberfest:</b></h3>
