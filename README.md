@@ -14,7 +14,9 @@
 <a href="https://www.linkedin.com/in/daksh-kumar-1127681b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daksh Kumar LinkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/dakshrajput100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Daksh Kumar LeetCode" height="30" width="40" /></a>
 <a href="https://ieeexplore.ieee.org/author/925090005486930" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/IEEE_logo.svg" alt="Daksh Kumar IEEE Profile" title="Daksh Kumar IEEE Profile" height="30" width="40" /></a>
+  <img align="center" src="https://1000logos.net/wp-content/uploads/2019/03/IEEE-Logo.png" alt="Daksh Kumar IEEE Profile" title="Daksh Kumar IEEE Profile" height="30" width="40" />
+</a>
+
 
 <a href="https://www.cloudskillsboost.google/public_profiles/35e935c5-4eb2-4f41-a320-8fc2c38c6f1b" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Daksh Kumar Google Cloud" height="30" width="40" /></a>
 </p>
