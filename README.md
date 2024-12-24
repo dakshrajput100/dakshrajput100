@@ -10,20 +10,26 @@
 - 💬 Ask me about **Software Developer | Python | SQL | Web Technologies | Future Tech Innovator | Financial Director @ Rotaract Club of Pune Wisdom**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/daksh-kumar-1127681b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daksh Kumar LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/dakshrajput100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Daksh Kumar LeetCode" height="30" width="40" /></a>
-<a href="https://ieeexplore.ieee.org/author/925090005486930" target="blank">
-  <img align="center" src="https://1000logos.net/wp-content/uploads/2019/03/IEEE-Logo.png" alt="Daksh Kumar IEEE Profile" title="Daksh Kumar IEEE Profile" height="30" width="40" />
-</a>
-
-
-<a href="https://www.cloudskillsboost.google/public_profiles/35e935c5-4eb2-4f41-a320-8fc2c38c6f1b" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Daksh Kumar Google Cloud" height="30" width="40" /></a>
-</p>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/daksh-kumar-1127681b4/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daksh Kumar LinkedIn" title="Daksh Kumar LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/author/925090005486930" target="blank">
+    <img src="https://1000logos.net/wp-content/uploads/2019/03/IEEE-Logo.png" alt="Daksh Kumar IEEE Profile" title="Daksh Kumar IEEE Profile" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/dakshrajput100/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Daksh Kumar LeetCode" title="Daksh Kumar LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/35e935c5-4eb2-4f41-a320-8fc2c38c6f1b" target="blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Daksh Kumar Google Cloud" title="Daksh Kumar Google Cloud" height="30" width="40" />
+  </a>
+</div>
 
 <h3 align="left"><b>Hacktoberfest:</b></h3>
 <p align="left">
-<a href="https://www.holopin.io/@dakshrajput100#badges" target="blank"><img align="center" src="https://holopin.me/dakshrajput100" alt="Hacktoberfest Badges" height="40" width="40" /></a>
+  <a href="https://www.holopin.io/@dakshrajput100#badges" target="blank">
+    <img align="center" src="https://holopin.me/dakshrajput100" alt="Hacktoberfest Badges" height="40" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,5 +54,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshrajput100&show_icons=true&locale=en" alt="dakshrajput100" /></p>
 
 <p align="left">
-<img src="https://leetcard.jacoblin.cool/dakshrajput100?theme=unicorn" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/dakshrajput100?theme=unicorn" alt="LeetCode Stats" />
 </p>
